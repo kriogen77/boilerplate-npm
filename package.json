@@ -1,6 +1,6 @@
 {
-	"author": "Artūrs Daņilovs",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Arturs Danilovs",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
